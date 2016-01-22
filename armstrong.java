@@ -28,6 +28,8 @@ public class armstrong {
 			System.out.println("The entered number is not an armstrong number");
 		
 		}
+
+		System.out.println("The entered number is an armstrong number");
 	}
 }
 
